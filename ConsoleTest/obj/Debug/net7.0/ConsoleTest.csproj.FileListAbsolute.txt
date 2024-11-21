@@ -1,0 +1,14 @@
+C:\Myworkspace\InterviewPractice\ConsoleTest\obj\Debug\net7.0\ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Myworkspace\InterviewPractice\ConsoleTest\obj\Debug\net7.0\ConsoleTest.AssemblyInfoInputs.cache
+C:\Myworkspace\InterviewPractice\ConsoleTest\obj\Debug\net7.0\ConsoleTest.AssemblyInfo.cs
+C:\Myworkspace\InterviewPractice\ConsoleTest\obj\Debug\net7.0\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Myworkspace\InterviewPractice\ConsoleTest\bin\Debug\net7.0\ConsoleTest.exe
+C:\Myworkspace\InterviewPractice\ConsoleTest\bin\Debug\net7.0\ConsoleTest.deps.json
+C:\Myworkspace\InterviewPractice\ConsoleTest\bin\Debug\net7.0\ConsoleTest.runtimeconfig.json
+C:\Myworkspace\InterviewPractice\ConsoleTest\bin\Debug\net7.0\ConsoleTest.dll
+C:\Myworkspace\InterviewPractice\ConsoleTest\bin\Debug\net7.0\ConsoleTest.pdb
+C:\Myworkspace\InterviewPractice\ConsoleTest\obj\Debug\net7.0\ConsoleTest.dll
+C:\Myworkspace\InterviewPractice\ConsoleTest\obj\Debug\net7.0\refint\ConsoleTest.dll
+C:\Myworkspace\InterviewPractice\ConsoleTest\obj\Debug\net7.0\ConsoleTest.pdb
+C:\Myworkspace\InterviewPractice\ConsoleTest\obj\Debug\net7.0\ConsoleTest.genruntimeconfig.cache
+C:\Myworkspace\InterviewPractice\ConsoleTest\obj\Debug\net7.0\ref\ConsoleTest.dll
