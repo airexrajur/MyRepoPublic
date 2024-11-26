@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class ClassA
+    public  class ClassA
     {
+        public  ClassA()
+        {
+            Console.WriteLine("Constructor in class A");
+
+        }
+        public virtual int add(int a, int b) 
+        {
+            return a + b;
+        }
     }
 }

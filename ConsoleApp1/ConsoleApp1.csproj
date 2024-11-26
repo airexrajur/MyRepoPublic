@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassA.cs" />
+    <Compile Include="Classb.cs" />
     <Compile Include="ClassDEmoDispose.cs" />
+    <Compile Include="Linqtest.cs" />
     <Compile Include="Mutitasking.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -54,6 +57,7 @@
     </Compile>
     <Compile Include="ReflectionCs.cs" />
     <Compile Include="Sqltest.cs" />
+    <Compile Include="StringExtensions.cs" />
     <Compile Include="TestdbDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
